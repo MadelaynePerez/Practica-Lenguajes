@@ -1,0 +1,12 @@
+GENERALES
+
+S1 -> Console.WriteLine(S2)
+S1 -> Console.ReadLine(S2)
+S1 -> Square.Color(#S3S3S3S3S3S3,aritmetica,aritmetica)
+S2 -> TEXTO
+S3 -> numero 
+S3 -> letra
+
+
+
+

@@ -1,0 +1,10 @@
+regla if 
+
+CODIGO -> If CONDICIONAL Then algo S3 S2 End If 
+
+IF2 -> Else algo
+IF2 -> Lambda
+IF3 -> ElseIf CONDICIONAL Then ALGO S3
+IF3 -> Lambda 
+
+

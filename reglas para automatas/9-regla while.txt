@@ -1,0 +1,5 @@
+regla while 
+
+BUCLE1 -> While CONDICIONAL CODIGO End While 
+BUCLE1 -> Do While CONDICIONAL CODIGO Loop
+BUCLE1 -> Do CODIGO Loop While CONDICIONAL

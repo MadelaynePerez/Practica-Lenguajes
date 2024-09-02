@@ -1,0 +1,6 @@
+regla para modulo 
+
+s1 -> module s2
+s2 -> identificadores s3 
+s3 -> end module
+

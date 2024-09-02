@@ -1,0 +1,15 @@
+regla de metodos 
+
+s1 -> sub main (s3)s2
+s2 -> algo end sub
+s3 -> identificador s4
+S3 -> lamda
+s4 -> as TIPO S5
+TIPO -> String 
+TIPO -> Integer 
+TIPO -> Double
+TIPO -> Char
+TIPO -> Boolean 
+S5   ->  , s3 
+S5 -> lambda
+

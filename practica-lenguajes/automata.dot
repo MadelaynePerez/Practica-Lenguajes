@@ -1,0 +1,4 @@
+digraph G {  
+ 	rankdir=LR;
+  0 [label="=", shape=doublecircle,width=0.15];
+}

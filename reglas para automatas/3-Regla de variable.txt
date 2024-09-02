@@ -1,0 +1,19 @@
+Regla de variable 
+S1 -> Dim identificador S2
+S1 -> Const identificador S2
+TIPO -> String s6
+TIPO -> Integer S3
+TIPO -> Double s8
+TIPO -> Char s5
+TIPO -> Boolean s4
+S2 -> As TIPO
+S3  = aritmética
+s4  =true
+s4 lambda
+s4 = false 
+s5 ='caracter'
+s5 = lambda
+s6 ="CADENA DE TEXTO" 
+s6 = lambda 
+s7 lambda
+s7 + s6

@@ -1,0 +1,6 @@
+REGLA PARA CADENA DE TEXTO
+
+T1 -> VARIABLE T2
+T1 -> "TEXTO" T2
+T2 -> lambda 
+T2 -> + T1

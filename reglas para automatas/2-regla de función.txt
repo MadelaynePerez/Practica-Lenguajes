@@ -1,0 +1,16 @@
+regla de función
+
+S1 -> Function s2
+S2 -> identificador(S3)As tipo 
+S3 -> identificador S4
+S3 -> lambda 
+S4 -> As TIPO S5
+TIPO -> String 
+TIPO -> Integer 
+TIPO -> Double
+TIPO -> Char
+TIPO -> Boolean 
+S5 -> , S3
+S5 -> lambda 
+
+

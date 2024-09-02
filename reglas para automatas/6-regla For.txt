@@ -1,0 +1,4 @@
+regla For 
+
+FOR1 -> For IDENTIFICADOR As Integer = ARITMETICA To ARITMETICA CODIGO Next 
+
